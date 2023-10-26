@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1697116930 source:c:\users\linlin ahihi\desktop\snake_game\snake_game\main.cpp
+	<iostream>
+	<raylib.h>
+	<deque>
+	<raymath.h>
+
